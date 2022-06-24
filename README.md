@@ -1,7 +1,7 @@
 # MainActivity
 
 I have started to learn Android development, and this is my First Android App.
-In this App I have made two activities(page) . On clicking the button we can land on second page.
+In this App I have made two activities(page) . On clicking the button we can land on second activity.
 
 Thank you for visiting here!
 
